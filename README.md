@@ -11,6 +11,10 @@ Elle collecte, stocke, structure et orchestre des textes (TXT, PDF, EPUB) pour a
 
 La plateforme s'appuie sur **SQLite** (SGBD relationnel) pour le stockage des métadonnées et des logs, en séparant clairement le stockage des fichiers bruts (object storage local).
 
+> **Documents du rendu :**
+> - [`docs/RAPPORT_TECHNIQUE.md`](docs/RAPPORT_TECHNIQUE.md) — rapport technique (architecture, BDD, pipeline, choix techniques, intégration ML)
+> - [`docs/GUIDE_FONCTIONNEMENT.md`](docs/GUIDE_FONCTIONNEMENT.md) — guide de fonctionnement et d'utilisation de l'application, page par page
+
 ---
 
 ## Architecture de la plateforme
