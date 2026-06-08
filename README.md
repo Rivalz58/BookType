@@ -14,6 +14,7 @@ La plateforme s'appuie sur **SQLite** (SGBD relationnel) pour le stockage des m�
 > **Documents du rendu :**
 > - [`docs/RAPPORT_TECHNIQUE.md`](docs/RAPPORT_TECHNIQUE.md) — rapport technique (architecture, BDD, pipeline, choix techniques, intégration ML)
 > - [`docs/GUIDE_FONCTIONNEMENT.md`](docs/GUIDE_FONCTIONNEMENT.md) — guide de fonctionnement et d'utilisation de l'application, page par page
+> - [`docs/PRESENTATION.pptx`](docs/PRESENTATION.pptx) — support de soutenance (17 slides : introduction, architecture, BDD, pipeline, modèles, démo, conclusion), généré depuis [`docs/PRESENTATION.md`](docs/PRESENTATION.md) via [Marp](https://marp.app/)
 
 ---
 
