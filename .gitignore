@@ -1,0 +1,18 @@
+# Environnements / cache Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Base de données SQLite (générée automatiquement au premier lancement)
+symphonie.db
+
+# Object storage local (fichiers volumineux, régénérables via le pipeline)
+storage/raw/
+storage/processed/
+
+# Modèles entraînés sérialisés (volumineux, régénérables via l'entraînement)
+models/saved/
+
+# Config locale Claude Code
+.claude/settings.local.json
